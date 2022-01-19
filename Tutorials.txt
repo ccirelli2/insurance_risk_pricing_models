@@ -1,0 +1,3 @@
+pure premium: https://towardsdatascience.com/insurance-risk-pricing-tweedie-approach-1d71207268fc
+claim freq: https://medium.com/swlh/modeling-insurance-claim-frequency-a776f3bf41dc
+claim severity: https://medium.com/swlh/modeling-insurance-claim-severity-b449ac426c23
